@@ -31,3 +31,20 @@ ACC:
 ### Future work
 
 將所有model的結果做結合，希望可以讓結果更好。
+
+### Progress
+
+1/6
+
+NN+HSV: 0.70(5000epoch)
+
+<img width="449" alt="image" src="https://user-images.githubusercontent.com/101687024/210930850-f91bce29-05d9-404e-b54f-96b2c913dd11.png">
+
+NN+HSV+RGB: 0.73(5000 epoch)
+
+<img width="449" alt="image" src="https://user-images.githubusercontent.com/101687024/210931949-ae80002b-7a9e-4f5f-9d50-4f3f05f93184.png">
+
+NN+HSV+RGB: 0.73(5000-10000 epoch)
+
+<img width="449" alt="image" src="https://user-images.githubusercontent.com/101687024/210933233-4a50e9cd-1c92-48c9-9abc-b3ac33a5ef4e.png">
+
