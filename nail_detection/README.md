@@ -2,7 +2,7 @@
 
 ### 檔案介紹
 1. model.py: yolo v1架構
-2. loss.py: IOU + sum-squared error
+2. loss.py: IOU + mean-squared error
 3. evaluate.py: 計算MSE
 4. helper.py: 計算training, valid score(MSE), 將yolo v1的output decode
 5. train.ipynb: 建構training pipeline
